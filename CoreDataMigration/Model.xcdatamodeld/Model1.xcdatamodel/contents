@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="Model1" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5059" systemVersion="13B42" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Topic" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateCreated" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="presenterEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="presenterName" attributeType="String" syncable="YES"/>
+        <relationship name="topicList" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="TopicList" inverseName="topics" inverseEntity="TopicList" syncable="YES"/>
+    </entity>
+    <entity name="TopicList" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="topics" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Topic" inverseName="topicList" inverseEntity="Topic" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Topic" positionX="-45" positionY="0" width="128" height="120"/>
+        <element name="TopicList" positionX="-342" positionY="9" width="128" height="73"/>
+    </elements>
+</model>

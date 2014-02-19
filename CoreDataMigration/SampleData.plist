@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>topicLists</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Alesha - One on One</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>What&apos;s on your mind.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Annual performance review.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review my continued role in UI peer review process.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Demo the mobile HTML browser patient dashboard.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brainstorm ideas on responsive design for mobile.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Clinical Products Team</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Project status go round. Share your progress, next steps, blocking issues.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review the mobile HTML browser patient dashboard.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Make decision on raising system requirements to iOS 5.x</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Shawn</string>
+					<key>presenterEmail</key>
+					<string>shawn@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Schedule next stakeholder checkin.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss HIPPA requirements for our new mobile product concept.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brainstorm ideas for dealing with new Medicare patient privacy regulations.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review Wayne&apos;s direction regarding time we spend in cross functional team activities.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Wayne</string>
+					<key>presenterEmail</key>
+					<string>wayne@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Investigation of problems with hosting&apos;s performance issues after last release.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Jim</string>
+					<key>presenterEmail</key>
+					<string>jim@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review latest designs for new visualizations in clinical dashboard.</string>
+					<key>timeBudget</key>
+					<integer>1800</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Demo the new www.apple.com for design cues.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Jim</string>
+					<key>presenterEmail</key>
+					<string>jim@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Define requirements for the blood pressure graphing UI.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Jonathan</string>
+					<key>presenterEmail</key>
+					<string>jonathan@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Work out the changes in the web app for the Accessibility improvements PLM wants.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Get input on new office open-format layout.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss plan for Google IO conference (www.google.com/io)</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Joe</string>
+					<key>presenterEmail</key>
+					<string>joe@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Bug reporting tool decision: Bugzilla or FogBugz</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Shawn</string>
+					<key>presenterEmail</key>
+					<string>shawn@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Figure out how we should be creating production graphics for iOS apps.</string>
+					<key>timeBudget</key>
+					<integer>0</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Demo the new EventKit features in iOS for use in patient scheduling app.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Shawn</string>
+					<key>presenterEmail</key>
+					<string>shawn@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brainstorm ideas for using Peer to Peer networking for Doctor/Patient visits.</string>
+					<key>timeBudget</key>
+					<integer>1200</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Eng Quality Working Group</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Build a plan for continuous integration strategy.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss PaaS solutions like Parse and Heroku for cloud solutions.</string>
+					<key>timeBudget</key>
+					<integer>1800</integer>
+					<key>presenterName</key>
+					<string>Jim</string>
+					<key>presenterEmail</key>
+					<string>jim@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Go round for thoughts on our TDD processes and best practices.</string>
+					<key>timeBudget</key>
+					<real>1800</real>
+					<key>presenterName</key>
+					<string>Joe</string>
+					<key>presenterEmail</key>
+					<string>joe@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review the new icons for share and follow features.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share the latest news and trends on mobile technology.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Shawn</string>
+					<key>presenterEmail</key>
+					<string>shawn@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>HTML5 and responsive design tips &amp; tricks.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Executive Committee</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss development impact from new branding initiatives.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share concerns about new IT policy limiting BYOD.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Get help on legal issues facing us over the new Medicare rules and our patient analytics products.</string>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Demo some of the new exciting features in latest mobile products.</string>
+					<key>timeBudget</key>
+					<integer>1800</integer>
+					<key>presenterName</key>
+					<string>Steve</string>
+					<key>presenterEmail</key>
+					<string>steve@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share concerns, discuss employee BYOD policies.</string>
+					<key>presenterName</key>
+					<string>Phil</string>
+					<key>presenterEmail</key>
+					<string>phil@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brief team on new customer service staffing challenges for upcoming year.</string>
+					<key>timeBudget</key>
+					<integer>1200</integer>
+					<key>presenterName</key>
+					<string>Jackie</string>
+					<key>presenterEmail</key>
+					<string>jackie@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Sales force changes to meet the changing landscape of health care providers.</string>
+					<key>timeBudget</key>
+					<integer>3600</integer>
+					<key>presenterName</key>
+					<string>Tim</string>
+					<key>presenterEmail</key>
+					<string>tim@company.com</string>
+				</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Decide on topics to discuss after PM break.</string>
+    				<key>timeBudget</key>
+    				<integer>300</integer>
+    				<key>presenterName</key>
+    				<string>Tim</string>
+					<key>presenterEmail</key>
+					<string>tim@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Department Reports: Highs, Lows, Biggest Challenge</string>
+    				<key>timeBudget</key>
+    				<integer>4200</integer>
+    				<key>presenterName</key>
+    				<string>Tim</string>
+					<key>presenterEmail</key>
+					<string>tim@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Update team on operational plan for Q3.</string>
+    				<key>timeBudget</key>
+    				<integer>1200</integer>
+    				<key>presenterName</key>
+    				<string>Mary</string>
+					<key>presenterEmail</key>
+					<string>mary@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>P2020: Presentation on next generation products.</string>
+    				<key>timeBudget</key>
+    				<integer>3000</integer>
+    				<key>presenterName</key>
+    				<string>Steve</string>
+					<key>presenterEmail</key>
+					<string>steve@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>HIPPA 2013 rules: What it means to our company going forward.</string>
+    				<key>timeBudget</key>
+    				<integer>1200</integer>
+    				<key>presenterName</key>
+    				<string>Bobby</string>
+					<key>presenterEmail</key>
+					<string>bobby@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Formulate strategy to address competition from MedMobility.</string>
+    				<key>timeBudget</key>
+    				<integer>1800</integer>
+    				<key>presenterName</key>
+    				<string>Tim</string>
+					<key>presenterEmail</key>
+					<string>tim@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Professional development changes for 2013. Online training goes social!</string>
+    				<key>timeBudget</key>
+    				<integer>1800</integer>
+    				<key>presenterName</key>
+    				<string>Jackie</string>
+					<key>presenterEmail</key>
+					<string>jackie@company.com</string>
+    			</dict>
+    			<dict>
+    				<key>content</key>
+    				<string>Preso: Big Data Analytics for Medical Assessment Measurement </string>
+    				<key>timeBudget</key>
+    				<integer>1800</integer>
+    				<key>presenterName</key>
+    				<string>Wayne</string>
+					<key>presenterEmail</key>
+					<string>wayne@company.com</string>
+    			</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Joe - One on One</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss leading the analytics engine design.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brainstorm ideas on improving our TDD processes.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Collaborate on architecture document for push notification system.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Joe</string>
+					<key>presenterEmail</key>
+					<string>joe@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>What&apos;s on your mind.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Joe</string>
+					<key>presenterEmail</key>
+					<string>joe@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Annual performance review.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Trip report on the Agile &apos;13 conference I attended last week.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Joe</string>
+					<key>presenterEmail</key>
+					<string>joe@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Product Mgr Bi-Weekly</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss the new branding initiatives.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>UIE conference planning</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Present the new patient diagnostic visual design.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Jonathan</string>
+					<key>presenterEmail</key>
+					<string>jonathan@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review the new icons for share and follow features.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share the latest news and trends from the industry. </string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Act out the recent dramas in the office.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Social Media Working Group</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss the new branding initiatives.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>UIE conference planning</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Present the new patient diagnostic visual design.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Jonathan</string>
+					<key>presenterEmail</key>
+					<string>jonathan@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review the new icons for share and follow features.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share the latest news and trends from the industry. </string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Act out the recent dramas in the office.</string>
+					<key>timeBudget</key>
+					<integer>300</integer>
+					<key>presenterName</key>
+					<string>Alesha</string>
+					<key>presenterEmail</key>
+					<string>alesha@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Sally - One on One</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss the new branding initiatives.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>UIE conference planning</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review candidate resumes for the Visual Designer position.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss what&apos;s on your mind.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Annual performance review.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss our design process and how we can be more agile.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Sally</string>
+					<key>presenterEmail</key>
+					<string>sally@company.com</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Wayne - One on One</string>
+			<key>topics</key>
+			<array>
+				<dict>
+					<key>content</key>
+					<string>Discuss the new BYOD policy impact on team productivity.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Review budgets for training, conference attendance.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Discuss design challenges with new patient diagnostic product.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Brainstorm on recruiting strategy for engineering.</string>
+					<key>timeBudget</key>
+					<integer>900</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>What&apos;s on your mind.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Collin</string>
+					<key>presenterEmail</key>
+					<string>collin@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Share news and direction from Executive level meetings. </string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Wayne</string>
+					<key>presenterEmail</key>
+					<string>wayne@company.com</string>
+				</dict>
+				<dict>
+					<key>content</key>
+					<string>Collaborate on product team budget needs for Q3.</string>
+					<key>timeBudget</key>
+					<integer>600</integer>
+					<key>presenterName</key>
+					<string>Wayne</string>
+					<key>presenterEmail</key>
+					<string>wayne@company.com</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
